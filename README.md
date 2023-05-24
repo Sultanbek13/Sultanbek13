@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sultvniyy13@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/11YHqwUPlFfrSpUcqj7qNK50AIFNsqDPA/view?usp=sharing](https://drive.google.com/file/d/11YHqwUPlFfrSpUcqj7qNK50AIFNsqDPA/view?usp=sharing)
+(https://drive.google.com/file/d/11YHqwUPlFfrSpUcqj7qNK50AIFNsqDPA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
