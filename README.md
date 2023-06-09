@@ -1,6 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Sultan</h1>
-<h3 align="center">Software developer</h3>
-**
+<h3 align="center">Software engineer</h3>
 
 - 💬 Ask me about **Android programmer experience in Java|Kotlin 2 year**
 
