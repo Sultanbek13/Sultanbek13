@@ -1,9 +1,8 @@
 ### <h1 align="center">Hi 👋, I'm Sultan</h1>
 <h3 align="center">Software developer</h3>
+**
 
-- 🌱 I’m currently learning **Flutter (Dart)**
-
-- 💬 Ask me about **Android programmer experience in Java|Kotlin 1 year**
+- 💬 Ask me about **Android programmer experience in Java|Kotlin 2 year**
 
 - 📫 How to reach me **sultvniyy13@gmail.com**
 
